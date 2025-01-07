@@ -1227,10 +1227,4 @@
 </body></html>
 
 
-     */
-  
-    .footer { --fs-5: 1rem; }
-  
-    .footer-link-box { flex-basis: 700px; }
-  
-  }
+    
